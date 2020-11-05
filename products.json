@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lexus",
+    "price": 1
+  },
+  {
+    "name": "Jeep",
+    "price": 2
+  },
+  {
+    "name": "Lincoln",
+    "price": 3
+  },
+  {
+    "name": "BMW",
+    "price": 4
+  },
+  {
+    "name": "Pontiac",
+    "price": 5
+  },
+  {
+    "name": "Pontiac",
+    "price": 6
+  },
+  {
+    "name": "Nissan",
+    "price": 7
+  },
+  {
+    "name": "Mitsubishi",
+    "price": 8
+  }
+]
